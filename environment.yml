@@ -66,3 +66,4 @@ dependencies:
     - typing-extensions==3.7.4.3
     - urllib3==1.25.10
     - warmup-scheduler==0.3.2
+    - einops
