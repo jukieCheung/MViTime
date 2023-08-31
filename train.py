@@ -3,13 +3,12 @@ import torch
 import torch.nn as nn
 import numpy as np
 import tqdm
-import mit_utils as utils
 import time
 import os, shutil
+import random
+
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score
-
-import random
 
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from warmup_scheduler import GradualWarmupScheduler
