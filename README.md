@@ -1,6 +1,6 @@
 # Mvitime
 
-This is the code implementation of paper  *Contrastive Learning for Sleep Staging based on Inter Subject Correlation*. More details about this paper could be known in https://arxiv.org/abs/2305.03178
+This is the code implementation of paper  *Contrastive Learning for Sleep Staging based on Inter Subject Correlation*. More details about this paper could be known in [here](https://arxiv.org/abs/2305.03178) or [here](https://doi.org/10.1007/978-3-031-44213-1_29).
 
 ## Preperation
 
