@@ -20,3 +20,18 @@ But the dataset we are using is a processed dataset with the same size as AttnSl
 
 Notice! 
 Please note that we have merged the individual record data files for each subject into one file for input into our Dataloader. In fact, you can also try writing a dataset.py file yourself to load the record data for each individual subject.
+
+
+## 📄 Citation
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@inproceedings{zhang2023contrastive,
+  title={Contrastive Learning for Sleep Staging based on Inter Subject Correlation},
+  author={Zhang, Tongxu and Wang, Bei},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={343--355},
+  year={2023},
+  organization={Springer}
+}
